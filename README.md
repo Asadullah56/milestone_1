@@ -1,4 +1,4 @@
-# milestone1-2-By-Abdulrehman
+# milestone1-2-By-Asadullah
 
 Milestone 1: Static Interactive Resume Builder (100 Points)
 Milestone 2: Publish on GitHub and Host on Vercel (100 Points)
